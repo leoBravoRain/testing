@@ -25,7 +25,7 @@ SECRET_KEY = 'y&=8m6(kk5@1jeh98&n8y$^k$(jgot!e6s)vn@f)1#one!35$q'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'localhost']
+ALLOWED_HOSTS = ['127.0.0.1', 'localhost','bestprojects.pythonanywhere.com']
 
 SECURE_SSL_REDIRECT = True
 
